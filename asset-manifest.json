@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.27091df8.chunk.css",
+    "main.js": "/first-react-app/static/js/main.10f28fd2.chunk.js",
+    "main.js.map": "/first-react-app/static/js/main.10f28fd2.chunk.js.map",
+    "runtime-main.js": "/first-react-app/static/js/runtime-main.3a466712.js",
+    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.3a466712.js.map",
+    "static/css/2.43b2b750.chunk.css": "/first-react-app/static/css/2.43b2b750.chunk.css",
+    "static/js/2.7255db00.chunk.js": "/first-react-app/static/js/2.7255db00.chunk.js",
+    "static/js/2.7255db00.chunk.js.map": "/first-react-app/static/js/2.7255db00.chunk.js.map",
+    "static/js/3.9a104303.chunk.js": "/first-react-app/static/js/3.9a104303.chunk.js",
+    "static/js/3.9a104303.chunk.js.map": "/first-react-app/static/js/3.9a104303.chunk.js.map",
+    "index.html": "/first-react-app/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/first-react-app/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.27091df8.chunk.css.map": "/first-react-app/static/css/main.27091df8.chunk.css.map",
+    "static/js/2.7255db00.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.7255db00.chunk.js.LICENSE.txt",
+    "static/media/404-error-page.d27da0ad.jpg": "/first-react-app/static/media/404-error-page.d27da0ad.jpg",
+    "static/media/add-to-cart.b244cb36.png": "/first-react-app/static/media/add-to-cart.b244cb36.png",
+    "static/media/item-in-cart.9b22306a.png": "/first-react-app/static/media/item-in-cart.9b22306a.png",
+    "static/media/logo.920bbec0.png": "/first-react-app/static/media/logo.920bbec0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a466712.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.7255db00.chunk.js",
+    "static/css/main.27091df8.chunk.css",
+    "static/js/main.10f28fd2.chunk.js"
+  ]
+}
